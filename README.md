@@ -3,4 +3,5 @@
 Bu uygulamada, listelenen verileri **search filter** ile filtreleme işlemi yapıldı.
 
 
-![ananew](https://user-images.githubusercontent.com/35347062/73105098-1f439600-3f09-11ea-9c55-060a859570d9.jpeg) ![newfilt](https://user-images.githubusercontent.com/35347062/73105099-1f439600-3f09-11ea-87ae-8fecc02a6360.jpeg)
+![ana3](https://user-images.githubusercontent.com/35347062/73105159-54e87f00-3f09-11ea-8313-510854f1dc7c.jpeg)
+![filtreee3](https://user-images.githubusercontent.com/35347062/73105160-55811580-3f09-11ea-9871-ee46d804d2b8.jpeg)
