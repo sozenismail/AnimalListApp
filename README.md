@@ -1,4 +1,4 @@
-# ***CanDostlarApp***
+# ***Animal List***
 
 Bu uygulamada listelenen verilerin, **search filter** ile filtreleme işlemi yapıldı.
 
